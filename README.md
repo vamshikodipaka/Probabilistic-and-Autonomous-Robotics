@@ -2,7 +2,7 @@
 
 Sem2 AR Labs and Paper Summary Report
 
-Lab: 2D Localization
+Lab: Auto-calibraton
 
 Paper Presentation: SPM-SLAM Simultaneous Localization and Mapping with Squared Planar Markers
 
