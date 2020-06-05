@@ -1,4 +1,6 @@
-# Sem2 AR Labs and Paper Summary Report
+# ARCourseWork
+
+Sem2 AR Labs and Paper Summary Report
 
 Lab: 2D Localization
 
