@@ -1,9 +1,9 @@
 # PRCourseWork
 Probabilistic Robotics
 
-Lab: 2D Grid Localization
+Labs: 2D Grid Localization, Kalman Filter and EK Filter
 
-Practice Labs: Kalman Filter, EK Filter and SLAM
+Practice Lab: SLAM
 
 Paper Presentation: Real Time SLAM with a Single Camera (Mono-SLAM)
 
